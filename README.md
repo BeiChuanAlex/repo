@@ -1,6 +1,6 @@
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">北川Alex的私房菜</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">🧑‍💻北川Alex的私房菜👨‍🍳</h1>
 
-<h4 align="center">这里有蒸羊羔、蒸熊掌、蒸鹿尾儿、烧花鸭、烧雏鸡、烧子鹅......🤪</h4>
+<h4 align="center">这里有蒸羊羔🐐、蒸熊掌🐼、蒸鹿尾儿🦌、烧花鸭🦤、烧雏鸡🐓、烧子鹅🦢......🤪🤪🤪</h4>
 
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BeiChuanAlex/repo?style=social">
@@ -12,15 +12,15 @@
 </p>
 
 
-## 简介
+## 📑简介
 
-没啥好介绍的，就是一个拿来保存资料的仓库！！！
+没啥好介绍的，就是一个拿来保存资料的仓库😀 
 
 
 
-## 资料列表
+## 🗂资料列表
 
-找具体文件夹就好了，都分类好了！！！
+找具体文件夹就好了，都分类好了，随便瞧，随便看🥰 
 
 
 
@@ -28,10 +28,10 @@
 
 
 
-###### 其他说明
+###### 🪄其他说明
 
-有些资料来源于互联网，如有侵权请及时联系删除！
+某些资料来源于互联网，如有侵权请及时我联系删除！
 
-###### 联系作者
+###### 📡联系作者
 
-- Email：beichuanalex@gmail.com
+- 📨Email：beichuanalex@gmail.com
