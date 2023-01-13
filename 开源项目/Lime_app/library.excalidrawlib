@@ -1,0 +1,76 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "fdPqzJQzMI481jRj39wYR",
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "Lb4_SIcooNV-TDxRqmnr_",
+          "type": "rectangle",
+          "x": 1069.777825249566,
+          "y": 210.00004577636716,
+          "width": 348.0001220703126,
+          "height": 671.2000427246093,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "roundness": {
+            "type": 3
+          },
+          "seed": 2094267160,
+          "version": 556,
+          "versionNonce": 1192673128,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1673533668737,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "WUI_DL22Taw8um9xEGawI",
+          "type": "text",
+          "x": 1231.1111246744792,
+          "y": 171.19994778103296,
+          "width": 41,
+          "height": 28,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "roundness": null,
+          "seed": 814858856,
+          "version": 239,
+          "versionNonce": 58634008,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1673533715088,
+          "link": null,
+          "locked": false,
+          "text": "名称",
+          "fontSize": 20,
+          "fontFamily": 1,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "baseline": 21,
+          "containerId": null,
+          "originalText": "名称"
+        }
+      ],
+      "created": 1673533720169
+    }
+  ]
+}
